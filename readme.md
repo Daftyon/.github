@@ -5,7 +5,7 @@
 
 From *hafdi* (solution) to *Daftyon* - Pioneering accessible development tools
 
-Created by Ahmed Hafdi • Competitive Programming Champion • Open Source Advocate
+Created by Ahmed Hafdi • Software Engineer
 
 ---
 
