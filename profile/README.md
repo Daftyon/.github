@@ -1,5 +1,5 @@
 # Daftyon
-<img width="588" height="148" alt="image" src="https://github.com/user-attachments/assets/a6e5d692-ab30-480c-a2e0-d75fcfb17adb" />
+<img width="550" height="130" alt="image" src="https://github.com/user-attachments/assets/a6e5d692-ab30-480c-a2e0-d75fcfb17adb" />
 
 
 **Morocco's First Open Source Development Ecosystem**
