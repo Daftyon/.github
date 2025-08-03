@@ -1,5 +1,5 @@
 # Daftyon
-<img width="550" height="130" alt="image" src="https://github.com/user-attachments/assets/a6e5d692-ab30-480c-a2e0-d75fcfb17adb" />
+![Slofdi (2)](https://github.com/user-attachments/assets/2da85bcb-349a-4143-83d1-77375862ecba)
 
 
 **Morocco's First Open Source Development Ecosystem**
